@@ -1,0 +1,50 @@
+update d_product set product_name='一个陌生女人的来信',add_time=1327873000234,description='一个陌生女人的来信',dang_price=170 where id=1;
+update d_book set author='陌生女人' where id = 1;
+update d_product set product_name='鲁滨逊漂流记',add_time=1417873000234,description='鲁滨逊漂流记',dang_price=160 where id=2;
+update d_book set author='鲁滨逊' where id = 2;
+update d_product set product_name='老子说',add_time=1507873000234,description='老子说',dang_price=150 where id=3;
+update d_book set author='老子' where id = 3;
+update d_product set product_name='达芬奇密码',add_time=1697873000234,description='达芬奇密码',dang_price=140 where id=4;
+update d_book set author='达芬奇' where id = 4;
+update d_product set product_name='淘气包',add_time=1787873000234,description='淘气包',dang_price=130 where id=5;
+update d_book set author='淘气' where id = 5;
+update d_product set product_name='夏洛的网',add_time=1877873000234,description='夏洛的网',dang_price=120 where id=6;
+update d_book set author='夏洛' where id = 6;
+update d_product set product_name='servlet与jsp',add_time=1967873000234,description='servlet与jsp',dang_price=110 where id=7;
+update d_book set author='sj' where id = 7;
+update d_product set product_name='庐隐',add_time=2057873000234,description='庐隐',dang_price=100 where id=8;
+update d_book set author='隐庐' where id = 8;
+update d_product set product_name='门口的野蛮人',add_time=2147873000234,description='门口的野蛮人',dang_price=90 where id=9;
+update d_book set author='野蛮人' where id = 9;
+update d_product set product_name='童年在人间我的大学',add_time=2237873000234,description='童年在人间我的大学',dang_price=80 where id=10;
+update d_book set author='我' where id = 10;
+update d_product set product_name='海水观赏鱼',add_time=2327873000234,description='海水观赏鱼',dang_price=80 where id=11;
+update d_book set author='鱼' where id = 11;
+update d_product set product_name='小妇人',add_time=1017873000234,description='小妇人',dang_price=90 where id=12;
+update d_book set author='小妇人' where id = 12;
+update d_product set product_name='双螺旋',add_time=937873000234,description='双螺旋',dang_price=180 where id=13;
+update d_book set author='双双' where id = 13;
+update d_product set product_name='JaneEyre',add_time=847873000234,description='JaneEyre',dang_price=190 where id=14;
+update d_book set author='je' where id = 14;
+update d_product set product_name='java就也培训教程',add_time=7257873000234,description='java就也培训教程',dang_price=180 where id=15;
+update d_book set author='java' where id = 15;
+update d_product set product_name='茶花女',add_time=6267873000234,description='茶花女',dang_price=170 where id=16;
+update d_book set author='茶花女' where id = 16;
+update d_product set product_name='雪莱诗选',add_time=5277873000234,description='雪莱诗选',dang_price=160 where id=17;
+update d_book set author='雪莱' where id = 17;
+update d_product set product_name='在人间',add_time=4287873000234,description='在人间',dang_price=150 where id=18;
+update d_book set author='神' where id = 18;
+update d_product set product_name='GWTW',add_time=3297873000234,description='GWTW',dang_price=140 where id=19;
+update d_book set author='xiaoG' where id = 19;
+update d_product set product_name='关键管理问题',add_time=2307873000234,description='关键管理问题',dang_price=130 where id=20;
+update d_book set author='经理' where id = 20;
+update d_product set product_name='孩子',add_time=1317873000234,description='孩子',dang_price=120 where id=21;
+update d_book set author='孩子' where id = 21;
+update d_product set product_name='傲慢与偏见',add_time=1327873000234,description='傲慢与偏见',dang_price=110 where id=22;
+update d_book set author='春哥' where id = 22;
+update d_product set product_name='童年',add_time=1337873000234,description='童年',dang_price=100 where id=23;
+update d_book set author='儿童' where id = 23;
+
+
+
+
